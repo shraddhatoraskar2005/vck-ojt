@@ -1,0 +1,127 @@
+#head{
+    text-align: center;
+}
+#head1{
+    text-align: center;
+}
+
+#body{
+    color: black;
+    background-color: #52d2d2;
+}
+#body1{
+    background-color: #fff;
+    margin:30px 200px 30px 200px;
+    border-radius: 8px;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 30px;
+    }
+.tab{
+    color: floralwhite;
+}
+#img1{
+    position: relative;
+    height: 100%;
+    width: 100%;
+    border-radius: 8px;
+}
+.image-item{
+    height: 200px;
+    width: 600px;
+    border-radius: 8px;
+    padding:20px;
+}
+#para{
+    text-align: center;
+}
+.btn2{
+    text-align: center;
+    background-color: green;
+    color: -webkit-link;
+    text-decoration: underline;
+}
+
+/*abot page*/
+#about{
+    background-color: #52d2d2;
+    color: black;
+}
+#about1{
+    background-color: #fff;
+    margin:30px 200px 30px 200px;
+    border-radius: 8px;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 50px;
+}
+#ahead{
+    text-align: center;
+    font-size: 30px;
+    color:#007bff;
+}
+/*course page*/
+#course{
+    background-color: #52d2d2;
+    color: black;
+}
+#course1{
+  background-color: #fff;
+  margin:30px 200px 30px 200px;
+   border-radius: 8px;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 30px;  
+}
+#table{
+
+    padding: 12px;
+}
+#para1{
+    text-align: center;
+    
+}
+#chead{
+    text-align: center;
+    color: #007bff;
+    font-size: 50px;
+}
+#contact{
+    background-color: green;
+
+}
+.course-video{
+    height: 500px;
+    width: 900px;
+}
+/*contact page*/
+#contact{
+    background-color: #52d2d2;
+    color: black;
+}
+#contact1{
+    background-color: #fff;
+     margin:30px 200px 30px 200px;
+    border-radius: 8px;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 30px;  
+}
+#cnt{
+    background-color: green;
+    margin-left: 450px;
+    height:100px;
+    width:100px;
+}
+#admission{
+    background-color: #52d2d2;
+    color: black;
+}
+.tab1{
+    color: black;
+}
+#head2{
+    color:#007bff;
+    text-align: center;
+    font-size: 50px;
+}
