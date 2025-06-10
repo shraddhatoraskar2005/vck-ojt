@@ -11,7 +11,8 @@ const Home = () => {
             <Header/>
           <div id="body1">
             
-            <img id="img1" src='Images/college.jpg'/>
+              <img  id="img1" src="Images/college.jpg"/>
+              
            <p> **Vivekanand College** is a premier educational institution dedicated to fostering academic excellence, innovation,
             and holistic development. Established in [Year of Establishment, e.g., 1980], we have proudly served generations
              of students, empowering them to achieve their full potential.</p>

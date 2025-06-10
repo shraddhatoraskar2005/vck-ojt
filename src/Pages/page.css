@@ -79,6 +79,7 @@
 }
 #para1{
     text-align: center;
+    font-size: 24px;
     
 }
 #chead{
@@ -94,6 +95,11 @@
     height: 500px;
     width: 900px;
 }
+#v1{
+    height:500px;
+    width:1000px;
+    border-radius: 8px;
+}
 /*contact page*/
 #contact{
     background-color: #52d2d2;
@@ -105,13 +111,15 @@
     border-radius: 8px;
     justify-content: center;
     align-items: flex-start;
-    padding: 30px;  
+    padding:110px;  
 }
 #cnt{
     background-color: green;
     margin-left: 450px;
     height:100px;
     width:100px;
+    padding:15px 20px;
+    border-radius: 7px;
 }
 #admission{
     background-color: #52d2d2;
