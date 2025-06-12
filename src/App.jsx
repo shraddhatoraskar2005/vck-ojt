@@ -4,6 +4,7 @@ import About from "./Pages/AboutPage"
 import Courses from "./Pages/CoursesPage"
 import Contact from "./Pages/ContactPage"
 import Admission from "./Pages/AdmissionPage"
+import ChatbotComponent from "./components/Chatbot/ChatbotComponents"
 
 const App = () => {
   return(
@@ -15,9 +16,8 @@ const App = () => {
           <Route path="/courses" element={<Courses/>}/>
           <Route path="/contact" element={<Contact/>}/>
           <Route path="/admission" element={<Admission/>}/>
-      
-
         </Routes>
+        <ChatbotComponent/>
       </BrowserRouter>
 
     </div>

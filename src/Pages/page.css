@@ -21,10 +21,29 @@
     color: floralwhite;
 }
 #img1{
-    position: relative;
-    height: 100%;
+    height:400px;
     width: 100%;
-    border-radius: 8px;
+}
+#id1{
+    color:#fff;
+    font-size: 50px;
+    position : absolute;
+    top: 40%;
+    left:30%;
+}
+#id2{
+    color:#fff;
+    font-size: 20px;
+    position : absolute;
+    top: 55%;
+    left:40%;
+}
+#id3{
+   background-color:green;
+    color:#fff;
+    position : absolute;
+    top: 65%;
+    left:45%;
 }
 .image-item{
     height: 200px;
@@ -40,6 +59,7 @@
     background-color: green;
     color: -webkit-link;
     text-decoration: underline;
+    margin-left:450px ;
 }
 
 /*abot page*/

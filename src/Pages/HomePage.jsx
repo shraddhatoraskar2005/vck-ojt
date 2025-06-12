@@ -10,9 +10,13 @@ const Home = () => {
         <div id="body">
             <Header/>
           <div id="body1">
-            
+            <div id="id4">
               <img  id="img1" src="Images/college.jpg"/>
-              
+              <p id="id1"> Welcome to Vivekanand College !</p>
+              <p id="id2"> Your journey of excellence starts here .</p>
+              <a  href="/admission"><button id="id3"> Apply Now !</button></a>
+            </div>
+          
            <p> **Vivekanand College** is a premier educational institution dedicated to fostering academic excellence, innovation,
             and holistic development. Established in [Year of Establishment, e.g., 1980], we have proudly served generations
              of students, empowering them to achieve their full potential.</p>
@@ -32,7 +36,7 @@ const Home = () => {
            <img className='image-item' src="Images/vck2.jpeg"/>
            <img className='image-item' src="Images/vck1.jpeg"/>
            <p id="para">Ready to explore our courses?</p>
-          <button className="btn2">Explore Courses</button>
+          <a href="admission"><button className="btn2">Explore Courses</button></a>
 
 
           </div>   

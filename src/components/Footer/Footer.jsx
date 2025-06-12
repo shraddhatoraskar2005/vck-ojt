@@ -7,7 +7,7 @@ const Footer = () => {
             
         <footer id="footer">
            <p>© 2025 Vivekanand College. All rights reserved.</p>
-           <button id="chat"><img id="chat1" src="https://vck.codewonders.in/images/operator.png"/></button>
+        
         </footer>
                
     )
