@@ -2,17 +2,7 @@
     background-color: gray;
     height: 40px;
     text-align: center;
-}
-#chat{
-    height: 80px;
-    position: fixed;
-    right: 20px;
-    bottom: 60px;
-    border-radius: 50%;
-    background-color: dodgerblue;
+    position: sticky;
+    bottom: 0%;
 
-}
-#chat1{
-    height: 60px;
-    width: auto;
 }

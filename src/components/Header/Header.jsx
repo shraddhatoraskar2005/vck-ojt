@@ -5,7 +5,7 @@ const Header = () => {
     return(
         <header id="main">
             <div id="main">
-                Vivekanad College
+                <a id="a1" href="home">Vivekanad College</a>
             </div>
             
             <nav id="navbar">
