@@ -33,8 +33,12 @@ const Home = () => {
              <li>**Strong Placements:** Excellent career opportunities with leading companies.</li>
            </ul>
            <h2>Campus Life & Facilities</h2>
-           <img className='image-item' src="Images/vck2.jpeg"/>
+           <div id="photo">
+            <img className='image-item' src="Images/vck2.jpeg"/>
            <img className='image-item' src="Images/vck1.jpeg"/>
+           </div>
+           {/* <img className='image-item' src="Images/vck2.jpeg"/>
+           <img className='image-item' src="Images/vck1.jpeg"/> */}
            <p id="para">Ready to explore our courses?</p>
           <a href="courses"><button className="btn2">Explore Courses</button></a>
 

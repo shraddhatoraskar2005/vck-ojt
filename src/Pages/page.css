@@ -23,6 +23,7 @@
 #img1{
     height:400px;
     width: 100%;
+    filter: brightness(60%);
 }
 #id1{
     color:#fff;
@@ -47,9 +48,15 @@
 }
 .image-item{
     height: 200px;
-    width: 600px;
+    width: 450px;
     border-radius: 8px;
     padding:20px;
+}
+#photo{
+    width: 450px;
+    display:flex;
+    flex-direction: row;
+    gap:6px;
 }
 #para{
     text-align: center;
