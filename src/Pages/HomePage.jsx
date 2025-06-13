@@ -12,7 +12,7 @@ const Home = () => {
           <div id="body1">
             <div id="id4">
               <img  id="img1" src="Images/college.jpg"/>
-              <p id="id1"> Welcome to Vivekanand College !</p>
+              <p id="id1"><b> Welcome to Vivekanand College !</b></p>
               <p id="id2"> Your journey of excellence starts here .</p>
               <a  href="/admission"><button id="id3"> Apply Now !</button></a>
             </div>
